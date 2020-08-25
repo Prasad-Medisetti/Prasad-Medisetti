@@ -2,9 +2,6 @@
 
 # Hi there, _I'm_ **Prasad Medisetti** 👋
 
-[<img align="left" alt="website" width="32px" src="https://unpkg.com/ionicons@5.1.2/dist/svg/link-outline.svg" />][website]
-[<img align="left" alt="website" width="32px" src="https://unpkg.com/ionicons@5.1.2/dist/svg/logo-github.svg" />][github]
-
 <br/>
 
 ## I'm a Student, and Developer!
@@ -15,6 +12,9 @@
 [<img align="left" alt="Prasad Medisetti | Twitter" width="32px" src="https://unpkg.com/ionicons@5.1.2/dist/svg/logo-twitter.svg" />][twitter]
 [<img align="left" alt="Prasad Medisetti | LinkedIn" width="32px" src="https://unpkg.com/ionicons@5.1.2/dist/svg/logo-linkedin.svg" />][linkedin]
 [<img align="left" alt="Prasad Medisetti | Instagram" width="32px" src="https://unpkg.com/ionicons@5.1.2/dist/svg/logo-instagram.svg" />][instagram]
+[<img align="left" alt="Prasad Medisetti | GitHub" width="32px" src="https://unpkg.com/ionicons@5.1.2/dist/svg/logo-github.svg" />][github]
+[<img align="left" alt="Prasad Medisetti | Facebook" width="32px" src="https://unpkg.com/ionicons@5.1.2/dist/svg/logo-facebook.svg" />][facebook]
+[<img align="left" alt="Prasad Medisetti | WhatsApp" width="32px" src="https://unpkg.com/ionicons@5.1.2/dist/svg/logo-whatsapp.svg" />][whatsapp]
 
 <br />
 
@@ -40,3 +40,5 @@
 [instagram]: https://www.instagram.com/_prasad.medisetti_/
 [linkedin]: https://www.linkedin.com/in/prasad-medisetti-762374180/'
 [github]: https://github.com/Prasad-Medisetti
+[facebook]: https://www.facebook.com/prasad.medisetti.961
+[whatsapp]: https://api.whatsapp.com/send?phone=+919666502388
