@@ -2,8 +2,6 @@
 
 # Hi there, _I'm_ **Prasad Medisetti** 👋
 
-<br/>
-
 ## I'm a Student, and Developer!
 
 ### Connect with me:
