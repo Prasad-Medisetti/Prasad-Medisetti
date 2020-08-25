@@ -1,6 +1,6 @@
 ![Prasad Medisetti](https://avatars3.githubusercontent.com/u/53884322?s=460&u=1a55dc2a73c9ba67d59c0b70af2f3892795d73b6&v=4)
 
-[<img align="center" style="border-radius:50%;" src="https://avatars3.githubusercontent.com/u/53884322?s=460&u=1a55dc2a73c9ba67d59c0b70af2f3892795d73b6&v=4" alt="Prasad Medisetti" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img style="border-radius: 50%; text-align:center" src="https://avatars3.githubusercontent.com/u/53884322?s=460&u=1a55dc2a73c9ba67d59c0b70af2f3892795d73b6&v=4" alt="Prasad Medisetti" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 # **_I'm_ Prasad Medisetti**
 
@@ -13,12 +13,6 @@ https://github.com/Prasad-Medisetti
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Student, and Developer!
-
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
 
