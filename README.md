@@ -1,15 +1,9 @@
-![Prasad Medisetti](https://avatars3.githubusercontent.com/u/53884322?s=460&u=1a55dc2a73c9ba67d59c0b70af2f3892795d73b6&v=4)
+[<img style="border-radius: 50%; text-align:center" src="https://avatars3.githubusercontent.com/u/53884322?s=460&u=1a55dc2a73c9ba67d59c0b70af2f3892795d73b6&v=4" alt="Prasad Medisetti" width="350" />]()
 
-[<img style="border-radius: 50%; text-align:center" src="https://avatars3.githubusercontent.com/u/53884322?s=460&u=1a55dc2a73c9ba67d59c0b70af2f3892795d73b6&v=4" alt="Prasad Medisetti" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-# **_I'm_ Prasad Medisetti**
-
-**[GitHub Profile]**
-https://github.com/Prasad-Medisetti
-
-# Hi there, I'm Prasad Medisetti 👋
+# Hi there, _I'm_ **Prasad Medisetti** 👋
 
 [<img align="left" alt="website" width="32px" src="https://unpkg.com/ionicons@5.1.2/dist/svg/link-outline.svg" />][website]
+[<img align="left" alt="website" width="32px" src="https://unpkg.com/ionicons@5.1.2/dist/svg/logo-github.svg" />][github]
 
 <br/>
 
@@ -45,3 +39,4 @@ https://github.com/Prasad-Medisetti
 [twitter]: https://twitter.com/Prasad_M_961
 [instagram]: https://www.instagram.com/_prasad.medisetti_/
 [linkedin]: https://www.linkedin.com/in/prasad-medisetti-762374180/'
+[github]: https://github.com/Prasad-Medisetti
