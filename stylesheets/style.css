@@ -35,6 +35,15 @@ body hr {
 	text-align: center;
 	width: 1.25em;
 }
+.svg-icon {
+	width: 8vw;
+	opacity: 0.75;
+	cursor: pointer;
+	user-select: none;
+}
+.svg-icon:hover {
+	opacity: 1;
+}
 .social-media-list .social-media-icon {
 	position: relative;
 	list-style: none;
