@@ -33,9 +33,8 @@ https://github.com/Prasad-Medisetti
 
 <br />
 <br />
----
-[website]: https://prasad-medisetti.herokuapp.com/
 
+[website]: https://prasad-medisetti.herokuapp.com/
 [twitter]: https://twitter.com/Prasad_M_961
 [instagram]: https://www.instagram.com/_prasad.medisetti_/
 [linkedin]: https://www.linkedin.com/in/prasad-medisetti-762374180/'
