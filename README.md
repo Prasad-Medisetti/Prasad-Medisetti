@@ -2,11 +2,4 @@
 The website for Prasad Medisetti
 
 
-
-*This text will be italic*
-_This will also be italic_
-
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
+![Prasad Medisetti](https://lh3.googleusercontent.com/a-/AOh14Gh0lisgweuEQ2f9m2ehiJAlyUV5RvQk39Amop0v9A=s96-c-rg-br100)
