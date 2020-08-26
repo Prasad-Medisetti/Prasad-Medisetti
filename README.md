@@ -14,8 +14,6 @@
 [<img align="left" alt="Prasad Medisetti | Facebook" width="32px" src="images/SVG/facebook.svg" />][facebook]
 [<img align="left" alt="Prasad Medisetti | WhatsApp" width="32px" src="images/SVG/whatsapp.svg" />][whatsapp]
 
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="32px" src="images/SVG/visualstudiocode.svg" />
