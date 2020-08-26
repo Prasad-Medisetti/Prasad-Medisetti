@@ -1,4 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Montserrat");
+* {
+	z-index: inherit;
+}
 body {
 	display: flex;
 	align-items: center;
@@ -6,7 +9,7 @@ body {
 	/* min-height: 100vh; */
 	background-color: #000;
 	color: #666;
-	padding: 2vh auto;
+	z-index: 1;
 }
 body img {
 	margin: 2vh auto;
@@ -89,6 +92,11 @@ body hr {
 	-ms-transition: 0.6s linear;
 	-o-transition: 0.6s linear;
 }
+.social-media-list .social-media-icon a.twitter::before {
+	content: "\f099";
+	color: #1da1f2;
+	border-bottom: 0.1px solid currentColor !important;
+}
 .social-media-list .social-media-icon a.github::before {
 	content: "\f09b";
 	color: #fff;
@@ -156,7 +164,7 @@ body hr {
 	-webkit-text-fill-color: rgba(255, 255, 255, 0);
 }
 .shine:hover {
-	-webkit-text-fill-color: rgba(255, 255, 255, 0.5);
+	-webkit-text-fill-color: #666;
 }
 
 @keyframes animate {
@@ -178,11 +186,15 @@ body hr {
 	color: transparent;
 	-webkit-background-clip: text;
 }
+.text:hover {
+	-webkit-text-fill-color: #666;
+}
 
 .anim {
 	animation: filter-animation 4s infinite;
 	-webkit-animation: filter-animation 4s infinite;
 }
+
 @keyframes filter-animation {
 	0% {
 		filter: hue-rotate(0deg);
