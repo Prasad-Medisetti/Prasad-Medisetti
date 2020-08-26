@@ -13,6 +13,7 @@
 [<img align="left" alt="Prasad Medisetti | GitHub" width="32px" src="images/SVG/github.svg" />][github]
 [<img align="left" alt="Prasad Medisetti | Facebook" width="32px" src="images/SVG/facebook.svg" />][facebook]
 [<img align="left" alt="Prasad Medisetti | WhatsApp" width="32px" src="images/SVG/whatsapp.svg" />][whatsapp]
+<br />
 
 ### Languages and Tools:
 
