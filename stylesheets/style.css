@@ -10,6 +10,8 @@ body {
 }
 body img {
 	margin: 2vh auto;
+	filter: brightness(0.95);
+	-webkit-filter: brightness(0.95);
 }
 body h1 {
 	margin: 2vh auto;
