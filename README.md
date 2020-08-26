@@ -19,6 +19,8 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="32px" src="images/SVG/visualstudiocode.svg" />
+<img align="left" alt="Xampp" width="32px" src="images/SVG/heroku.svg" />
+<img align="left" alt="Heroku" width="32px" src="images/SVG/xampp.svg" />
 <img align="left" alt="C" width="32px" src="images/SVG/c.svg" />
 <img align="left" alt="C++" width="32px" src="images/SVG/cplusplus.svg" />
 <img align="left" alt="Java" width="32px" src="images/SVG/java.svg" />
