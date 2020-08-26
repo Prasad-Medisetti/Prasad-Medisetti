@@ -1,6 +1,6 @@
 <img style="border-radius: 50%;margin: 0 auto;" src="https://avatars3.githubusercontent.com/u/53884322?s=460&u=1a55dc2a73c9ba67d59c0b70af2f3892795d73b6&v=4" alt="Prasad Medisetti" width="250" />
 
-# Hi there, _I'm_ **Prasad Medisetti ツ**
+# Hi there, I'm **Prasad Medisetti ツ**
 
 ## I'm a Student, and Developer!
 
