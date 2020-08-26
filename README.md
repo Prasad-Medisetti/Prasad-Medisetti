@@ -26,6 +26,7 @@
 <img align="left" alt="HTML5" width="32px" src="images/SVG/html5.svg" />
 <img align="left" alt="CSS3" width="32px" src="images/SVG/css3.svg" />
 <img align="left" alt="JavaScript" width="32px" src="images/SVG/javascript.svg" />	
+<img align="left" alt="Font Awesome" width="32px" src="images/SVG/fontawesome.svg" />	
 <img align="left" alt="AngularJS" width="32px" src="images/SVG/angularjs.svg" />
 <img align="left" alt="Node.js" width="32px" src="images/SVG/node-dot-js.svg" />
 <img align="left" alt="PHP" width="32px" src="images/SVG/php.svg" />
