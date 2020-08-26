@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="32px" src="/images/SVG/visualstudiocode.svg" />
+<img align="left" alt="Visual Studio Code" width="32px" src="images/SVG/visualstudiocode.svg" />
 <img align="left" alt="html5" width="32px" src="images/SVG/html5.svg" />
 <img align="left" alt="CSS3" width="32px" src="images/SVG/css3.svg" />
 <img align="left" alt="sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
