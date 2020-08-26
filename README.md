@@ -1,8 +1,8 @@
 <img style="border-radius: 50%;margin: 0 auto;" src="https://avatars3.githubusercontent.com/u/53884322?s=460&u=1a55dc2a73c9ba67d59c0b70af2f3892795d73b6&v=4" alt="Prasad Medisetti" width="250" />
 
-# Hi there, _I'm_ **Prasad Medisetti** 👋
+# Hi there, _I'm_ **Prasad Medisetti 👋**:
 
-## I'm a Student, and Developer!
+## I'm a Student, and Developer!:
 
 ### Connect with me:
 
@@ -15,11 +15,8 @@
 [<img align="left" alt="Prasad Medisetti | WhatsApp" width="32px" src="images/SVG/whatsapp.svg" />][whatsapp]
 <br />
 
-### Languages and Tools:
+### Languages:
 
-<img align="left" alt="Visual Studio Code" width="32px" src="images/SVG/visualstudiocode.svg" />
-<img align="left" alt="XAMPP" width="32px" src="images/SVG/heroku.svg" />
-<img align="left" alt="Heroku" width="32px" src="images/SVG/xampp.svg" />
 <img align="left" alt="C" width="32px" src="images/SVG/c.svg" />
 <img align="left" alt="C++" width="32px" src="images/SVG/cplusplus.svg" />
 <img align="left" alt="Java" width="32px" src="images/SVG/java.svg" />
@@ -27,16 +24,21 @@
 <img align="left" alt="HTML5" width="32px" src="images/SVG/html5.svg" />
 <img align="left" alt="CSS3" width="32px" src="images/SVG/css3.svg" />
 <img align="left" alt="JavaScript" width="32px" src="images/SVG/javascript.svg" />	
-<img align="left" alt="Font Awesome" width="32px" src="images/SVG/fontawesome.svg" />	
 <img align="left" alt="AngularJS" width="32px" src="images/SVG/angularjs.svg" />
 <img align="left" alt="Node.js" width="32px" src="images/SVG/node-dot-js.svg" />
 <img align="left" alt="PHP" width="32px" src="images/SVG/php.svg" />
 <img align="left" alt="MySQL" width="32px" src="images/SVG/mysql.svg" />
 <img align="left" alt="MongoDB" width="32px" src="images/SVG/mongodb.svg" />
+<br />
+
+### Tools:
+
+<img align="left" alt="Visual Studio Code" width="32px" src="images/SVG/visualstudiocode.svg" />
+<img align="left" alt="XAMPP" width="32px" src="images/SVG/heroku.svg" />
+<img align="left" alt="Heroku" width="32px" src="images/SVG/xampp.svg" />
 <img align="left" alt="Git" width="32px" src="images/SVG/git.svg" />
 <img align="left" alt="GitHub" width="32px" src="images/SVG/github.svg" />
-
-<br />
+<img align="left" alt="Font Awesome" width="32px" src="images/SVG/fontawesome.svg" />	
 <br />
 
 [website]: https://prasad-medisetti.herokuapp.com/
