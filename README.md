@@ -10,22 +10,15 @@
   
   **📫 Reach me at:**<br>
 
-  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/opakholis)](twitter)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/opakholis/)](linkedin)
-  [![Facebook  Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](facebook)
+  [<img align="left" alt="website" width="32px" src="images/SVG/link.svg" />][website]
+  [<img align="left" alt="Prasad Medisetti | Twitter" width="32px" src="images/SVG/twitter.svg" />][twitter]
+  [<img align="left" alt="Prasad Medisetti | LinkedIn" width="32px" src="images/SVG/linkedin.svg" />][linkedin]
+  [<img align="left" alt="Prasad Medisetti | Instagram" width="32px" src="images/SVG/instagram.svg" />][instagram]
+  [<img align="left" alt="Prasad Medisetti | GitHub" width="32px" src="images/SVG/github.svg" />][github]
+  [<img align="left" alt="Prasad Medisetti | Facebook" width="32px" src="images/SVG/facebook.svg" />][facebook]
+  [<img align="left" alt="Prasad Medisetti | WhatsApp" width="32px" src="images/SVG/whatsapp.svg" />][whatsapp]
 
 </div>
-
-### Connect with me:
-
-[<img align="left" alt="website" width="32px" src="images/SVG/link.svg" />][website]
-[<img align="left" alt="Prasad Medisetti | Twitter" width="32px" src="images/SVG/twitter.svg" />][twitter]
-[<img align="left" alt="Prasad Medisetti | LinkedIn" width="32px" src="images/SVG/linkedin.svg" />][linkedin]
-[<img align="left" alt="Prasad Medisetti | Instagram" width="32px" src="images/SVG/instagram.svg" />][instagram]
-[<img align="left" alt="Prasad Medisetti | GitHub" width="32px" src="images/SVG/github.svg" />][github]
-[<img align="left" alt="Prasad Medisetti | Facebook" width="32px" src="images/SVG/facebook.svg" />][facebook]
-[<img align="left" alt="Prasad Medisetti | WhatsApp" width="32px" src="images/SVG/whatsapp.svg" />][whatsapp]
-<br />
 
 ### Languages:
 
