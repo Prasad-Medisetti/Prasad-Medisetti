@@ -23,25 +23,25 @@
 
 </div>
 <br />
+<div>
+  ### Languages:
 
-### Languages:
-
-<img align="left" alt="C" width="32px" src="images/SVG/c.svg" />
-<img align="left" alt="C++" width="32px" src="images/SVG/cplusplus.svg" />
-<img align="left" alt="Java" width="32px" src="images/SVG/java.svg" />
-<img align="left" alt="Python" width="32px" src="images/SVG/python.svg" />
-<br />
-<img align="left" alt="HTML5" width="32px" src="images/SVG/html5.svg" />
-<img align="left" alt="CSS3" width="32px" src="images/SVG/css3.svg" />
-<img align="left" alt="JavaScript" width="32px" src="images/SVG/javascript.svg" />	
-<img align="left" alt="AngularJS" width="32px" src="images/SVG/angularjs.svg" />
-<br />
-<img align="left" alt="Node.js" width="32px" src="images/SVG/node-dot-js.svg" />
-<img align="left" alt="PHP" width="32px" src="images/SVG/php.svg" />
-<img align="left" alt="MySQL" width="32px" src="images/SVG/mysql.svg" />
-<img align="left" alt="MongoDB" width="32px" src="images/SVG/mongodb.svg" />
-<br />
-<br />
+  <img align="left" alt="C" width="32px" src="images/SVG/c.svg" />
+  <img align="left" alt="C++" width="32px" src="images/SVG/cplusplus.svg" />
+  <img align="left" alt="Java" width="32px" src="images/SVG/java.svg" />
+  <img align="left" alt="Python" width="32px" src="images/SVG/python.svg" />
+  <hr />
+  <img align="left" alt="HTML5" width="32px" src="images/SVG/html5.svg" />
+  <img align="left" alt="CSS3" width="32px" src="images/SVG/css3.svg" />
+  <img align="left" alt="JavaScript" width="32px" src="images/SVG/javascript.svg" />	
+  <img align="left" alt="AngularJS" width="32px" src="images/SVG/angularjs.svg" />
+  <hr />
+  <img align="left" alt="Node.js" width="32px" src="images/SVG/node-dot-js.svg" />
+  <img align="left" alt="PHP" width="32px" src="images/SVG/php.svg" />
+  <img align="left" alt="MySQL" width="32px" src="images/SVG/mysql.svg" />
+  <img align="left" alt="MongoDB" width="32px" src="images/SVG/mongodb.svg" />
+  
+</div>
 
 ### Tools:
 
