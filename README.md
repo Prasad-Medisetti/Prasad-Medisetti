@@ -18,7 +18,9 @@
   [<img align="center" alt="Prasad Medisetti | Facebook" width="32px" src="images/SVG/facebook.svg" />][facebook]
   [<img align="center" alt="Prasad Medisetti | WhatsApp" width="32px" src="images/SVG/whatsapp.svg" />][whatsapp]
 
+</div>
 <br />
+
 ### Languages:
 
 <img align="left" alt="C" width="32px" src="images/SVG/c.svg" />
@@ -45,8 +47,6 @@
 <img align="left" alt="GitHub" width="32px" src="images/SVG/github.svg" />
 <img align="left" alt="Font Awesome" width="32px" src="images/SVG/fontawesome.svg" />	
 <br />
-
-</div>
 
 [website]: https://prasad-medisetti.herokuapp.com/
 [twitter]: https://twitter.com/Prasad_M_961
