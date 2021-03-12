@@ -9,18 +9,16 @@
 <div align="left">
   
   ## 📫 Reach me at : 
-  
-  <br>
-
-  [<img align="left" alt="website" width="32px" src="images/SVG/link.svg" />][website]
-  [<img align="left" alt="Prasad Medisetti | Twitter" width="32px" src="images/SVG/twitter.svg" />][twitter]
-  [<img align="left" alt="Prasad Medisetti | LinkedIn" width="32px" src="images/SVG/linkedin.svg" />][linkedin]
-  [<img align="left" alt="Prasad Medisetti | Instagram" width="32px" src="images/SVG/instagram.svg" />][instagram]
-  [<img align="left" alt="Prasad Medisetti | GitHub" width="32px" src="images/SVG/github.svg" />][github]
-  <br >
-  [<img align="left" alt="Prasad Medisetti | Facebook" width="32px" src="images/SVG/facebook.svg" />][facebook]
-  [<img align="left" alt="Prasad Medisetti | WhatsApp" width="32px" src="images/SVG/whatsapp.svg" />][whatsapp]
-
+ 
+  <div style="display:flex;">
+    [<img align="left" alt="website" width="32px" src="images/SVG/link.svg" />][website]
+    [<img align="left" alt="Prasad Medisetti | Twitter" width="32px" src="images/SVG/twitter.svg" />][twitter]
+    [<img align="left" alt="Prasad Medisetti | LinkedIn" width="32px" src="images/SVG/linkedin.svg" />][linkedin]
+    [<img align="left" alt="Prasad Medisetti | Instagram" width="32px" src="images/SVG/instagram.svg" />][instagram]
+    [<img align="left" alt="Prasad Medisetti | GitHub" width="32px" src="images/SVG/github.svg" />][github]
+    [<img align="left" alt="Prasad Medisetti | Facebook" width="32px" src="images/SVG/facebook.svg" />][facebook]
+    [<img align="left" alt="Prasad Medisetti | WhatsApp" width="32px" src="images/SVG/whatsapp.svg" />][whatsapp]
+  </div>
 </div>
 <br />
 <div>
@@ -30,12 +28,12 @@
   <img align="left" alt="C++" width="32px" src="images/SVG/cplusplus.svg" />
   <img align="left" alt="Java" width="32px" src="images/SVG/java.svg" />
   <img align="left" alt="Python" width="32px" src="images/SVG/python.svg" />
-  <hr />
+  <br/>
   <img align="left" alt="HTML5" width="32px" src="images/SVG/html5.svg" />
   <img align="left" alt="CSS3" width="32px" src="images/SVG/css3.svg" />
   <img align="left" alt="JavaScript" width="32px" src="images/SVG/javascript.svg" />	
   <img align="left" alt="AngularJS" width="32px" src="images/SVG/angularjs.svg" />
-  <hr />
+  <br />
   <img align="left" alt="Node.js" width="32px" src="images/SVG/node-dot-js.svg" />
   <img align="left" alt="PHP" width="32px" src="images/SVG/php.svg" />
   <img align="left" alt="MySQL" width="32px" src="images/SVG/mysql.svg" />
