@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
   # Hi there, welcome to my GitHub Profile! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
   
@@ -6,9 +6,11 @@
   
 </div>  
 
-<div align="center">
+<div align="left">
   
-  ## **📫 Reach me at : **<br>
+  ## 📫 Reach me at : 
+  
+  <br>
 
   [<img align="left" alt="website" width="32px" src="images/SVG/link.svg" />][website]
   [<img align="left" alt="Prasad Medisetti | Twitter" width="32px" src="images/SVG/twitter.svg" />][twitter]
