@@ -1,9 +1,11 @@
-<img style="border-radius: 50%;margin: 0 auto;" src="https://avatars3.githubusercontent.com/u/53884322?s=460&u=1a55dc2a73c9ba67d59c0b70af2f3892795d73b6&v=4" alt="Prasad Medisetti" width="250" />
-
 <div align="center">
 
-  ### Hi there, welcome to my Github! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
-  ![github stats](https://github-readme-stats.vercel.app/api?username=opxop&show_icons=true)
+  ### Hi there, welcome to my GitHub Profile! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+  
+  <img style="border-radius: 50%;margin: 0 auto;" src="https://avatars.githubusercontent.com/u/53884322?s=460&u=5559190fc9a51248cc65c3057e320744b1f2f7f1&v=4" alt="Prasad Medisetti" width="200" />
+  
+  ![github stats](https://github-readme-stats.vercel.app/api?username=prasad-medisetti&theme=dark&show_icons=true)
+  
   
 </div>  
 
