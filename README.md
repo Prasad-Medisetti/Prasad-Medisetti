@@ -2,10 +2,7 @@
 
   ### Hi there, welcome to my GitHub Profile! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
   
-  <img style="border-radius: 50%;margin: 0 auto;" src="https://avatars.githubusercontent.com/u/53884322?s=460&u=5559190fc9a51248cc65c3057e320744b1f2f7f1&v=4" alt="Prasad Medisetti" width="200" />
-  
   ![github stats](https://github-readme-stats.vercel.app/api?username=prasad-medisetti&theme=dark&show_icons=true)
-  
   
 </div>  
 
@@ -18,9 +15,6 @@
   [![Facebook  Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](facebook)
 
 </div>
-
-⭐️ From [Prasad Medisetti](https://github.com/prasad-medisetti)
-
 
 ### Connect with me:
 
