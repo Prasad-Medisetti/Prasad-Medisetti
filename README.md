@@ -18,7 +18,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="website" width="32px" src="https://unpkg.com/ionicons@5.1.2/dist/svg/link-outline.svg" />][website]
+[<img align="left" alt="website" width="32px" src="images/SVG/link.svg" />][website]
 [<img align="left" alt="Prasad Medisetti | Twitter" width="32px" src="images/SVG/twitter.svg" />][twitter]
 [<img align="left" alt="Prasad Medisetti | LinkedIn" width="32px" src="images/SVG/linkedin.svg" />][linkedin]
 [<img align="left" alt="Prasad Medisetti | Instagram" width="32px" src="images/SVG/instagram.svg" />][instagram]
