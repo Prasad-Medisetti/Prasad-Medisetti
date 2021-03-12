@@ -1,8 +1,24 @@
 <img style="border-radius: 50%;margin: 0 auto;" src="https://avatars3.githubusercontent.com/u/53884322?s=460&u=1a55dc2a73c9ba67d59c0b70af2f3892795d73b6&v=4" alt="Prasad Medisetti" width="250" />
 
-# Hi there, I'm **Prasad Medisetti ツ**
+<div align="center">
 
-## I'm a Student, and Developer!
+  ### Hi there, welcome to my Github! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+  ![github stats](https://github-readme-stats.vercel.app/api?username=opxop&show_icons=true)
+  
+</div>  
+
+<div align="center">
+  
+  **📫 Reach me at:**<br>
+
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/opakholis)](twitter)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/opakholis/)](linkedin)
+  [![Facebook  Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](facebook)
+
+</div>
+
+⭐️ From [Prasad Medisetti](https://github.com/prasad-medisetti)
+
 
 ### Connect with me:
 
