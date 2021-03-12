@@ -10,16 +10,15 @@
   
   **📫 Reach me at:**<br>
 
-  [<img align="left" alt="website" width="32px" src="images/SVG/link.svg" />][website]
-  [<img align="left" alt="Prasad Medisetti | Twitter" width="32px" src="images/SVG/twitter.svg" />][twitter]
-  [<img align="left" alt="Prasad Medisetti | LinkedIn" width="32px" src="images/SVG/linkedin.svg" />][linkedin]
-  [<img align="left" alt="Prasad Medisetti | Instagram" width="32px" src="images/SVG/instagram.svg" />][instagram]
-  [<img align="left" alt="Prasad Medisetti | GitHub" width="32px" src="images/SVG/github.svg" />][github]
-  [<img align="left" alt="Prasad Medisetti | Facebook" width="32px" src="images/SVG/facebook.svg" />][facebook]
-  [<img align="left" alt="Prasad Medisetti | WhatsApp" width="32px" src="images/SVG/whatsapp.svg" />][whatsapp]
+  [<img align="center" alt="website" width="32px" src="images/SVG/link.svg" />][website]
+  [<img align="center" alt="Prasad Medisetti | Twitter" width="32px" src="images/SVG/twitter.svg" />][twitter]
+  [<img align="center" alt="Prasad Medisetti | LinkedIn" width="32px" src="images/SVG/linkedin.svg" />][linkedin]
+  [<img align="center" alt="Prasad Medisetti | Instagram" width="32px" src="images/SVG/instagram.svg" />][instagram]
+  [<img align="center" alt="Prasad Medisetti | GitHub" width="32px" src="images/SVG/github.svg" />][github]
+  [<img align="center" alt="Prasad Medisetti | Facebook" width="32px" src="images/SVG/facebook.svg" />][facebook]
+  [<img align="center" alt="Prasad Medisetti | WhatsApp" width="32px" src="images/SVG/whatsapp.svg" />][whatsapp]
 
-</div>
-
+<br />
 ### Languages:
 
 <img align="left" alt="C" width="32px" src="images/SVG/c.svg" />
@@ -46,6 +45,8 @@
 <img align="left" alt="GitHub" width="32px" src="images/SVG/github.svg" />
 <img align="left" alt="Font Awesome" width="32px" src="images/SVG/fontawesome.svg" />	
 <br />
+
+</div>
 
 [website]: https://prasad-medisetti.herokuapp.com/
 [twitter]: https://twitter.com/Prasad_M_961
