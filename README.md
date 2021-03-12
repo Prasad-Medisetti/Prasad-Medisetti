@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  ##**📫 Reach me at : **<br>
+  ## **📫 Reach me at : **<br>
 
   [<img align="left" alt="website" width="32px" src="images/SVG/link.svg" />][website]
   [<img align="left" alt="Prasad Medisetti | Twitter" width="32px" src="images/SVG/twitter.svg" />][twitter]
