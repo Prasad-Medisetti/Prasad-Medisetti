@@ -1,6 +1,6 @@
 <div align="center">
 
-  ### Hi there, welcome to my GitHub Profile! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+  # Hi there, welcome to my GitHub Profile! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
   
   ![github stats](https://github-readme-stats.vercel.app/api?username=prasad-medisetti&theme=dark&show_icons=true)
   
@@ -8,15 +8,15 @@
 
 <div align="center">
   
-  **📫 Reach me at:**<br>
+  ##**📫 Reach me at : **<br>
 
-  [<img align="center" alt="website" width="32px" src="images/SVG/link.svg" />][website]
-  [<img align="center" alt="Prasad Medisetti | Twitter" width="32px" src="images/SVG/twitter.svg" />][twitter]
-  [<img align="center" alt="Prasad Medisetti | LinkedIn" width="32px" src="images/SVG/linkedin.svg" />][linkedin]
-  [<img align="center" alt="Prasad Medisetti | Instagram" width="32px" src="images/SVG/instagram.svg" />][instagram]
-  [<img align="center" alt="Prasad Medisetti | GitHub" width="32px" src="images/SVG/github.svg" />][github]
-  [<img align="center" alt="Prasad Medisetti | Facebook" width="32px" src="images/SVG/facebook.svg" />][facebook]
-  [<img align="center" alt="Prasad Medisetti | WhatsApp" width="32px" src="images/SVG/whatsapp.svg" />][whatsapp]
+  [<img align="left" alt="website" width="32px" src="images/SVG/link.svg" />][website]
+  [<img align="left" alt="Prasad Medisetti | Twitter" width="32px" src="images/SVG/twitter.svg" />][twitter]
+  [<img align="left" alt="Prasad Medisetti | LinkedIn" width="32px" src="images/SVG/linkedin.svg" />][linkedin]
+  [<img align="left" alt="Prasad Medisetti | Instagram" width="32px" src="images/SVG/instagram.svg" />][instagram]
+  [<img align="left" alt="Prasad Medisetti | GitHub" width="32px" src="images/SVG/github.svg" />][github]
+  [<img align="left" alt="Prasad Medisetti | Facebook" width="32px" src="images/SVG/facebook.svg" />][facebook]
+  [<img align="left" alt="Prasad Medisetti | WhatsApp" width="32px" src="images/SVG/whatsapp.svg" />][whatsapp]
 
 </div>
 <br />
