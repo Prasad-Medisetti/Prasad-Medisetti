@@ -1,15 +1,16 @@
-<div align="left">
+<div align="center">
 
   # Hi there, welcome to my GitHub Profile! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
   
-  ![github stats](https://github-readme-stats.vercel.app/api?username=prasad-medisetti&theme=dark&show_icons=true)
+  ![github status](https://github-readme-stats.vercel.app/api?username=prasad-medisetti&theme=dark&show_icons=true)
+  ![langs used](https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-medisetti&show_icons=true&layout=compact&theme=dark)
   
 </div>  
 
 
   ## 📫 Reach me at : 
   
-  <p>
+  <p align="center">
     <a href="https://prasad-medisetti.herokuapp.com/" target="blank">
       <img align="center" alt="Prasad Medisetti | Website" width="32" src="images/SVG/link.svg" />
     </a>
@@ -50,36 +51,41 @@
   -->
 
   <br />
-<div>
+
   ### Languages:
+  <p align="center">
+    <img align="center" alt="C" width="32" src="images/SVG/c.svg" />
+    <img align="center" alt="C++" width="32" src="images/SVG/cplusplus.svg" />
+    <img align="center" alt="Java" width="32" src="images/SVG/java.svg" />
+    <img align="center" alt="Python" width="32" src="images/SVG/python.svg" />
+    <img align="center" alt="HTML5" width="32" src="images/SVG/html5.svg" />
+    <img align="center" alt="CSS3" width="32" src="images/SVG/css3.svg" />
+    <img align="center" alt="JavaScript" width="32" src="images/SVG/javascript.svg" />	
+    <img align="center" alt="PHP" width="32" src="images/SVG/php.svg" />
+    <img align="center" alt="MySQL" width="32" src="images/SVG/mysql.svg" />
+    <img align="center" alt="MongoDB" width="32" src="images/SVG/mongodb.svg" />
+    <img align="center" alt="ExpressJS" width="32" src="images/SVG/express.svg" />
+    <img align="center" alt="ReactJS" width="32" src="images/SVG/react.svg" />
+    <img align="center" alt="AngularJS" width="32" src="images/SVG/angularjs.svg" />
+    <img align="center" alt="NodeJS" width="32" src="images/SVG/node-dot-js.svg" />
+  </p>
 
-  <img align="left" alt="C" width="32px" src="images/SVG/c.svg" />
-  <img align="left" alt="C++" width="32px" src="images/SVG/cplusplus.svg" />
-  <img align="left" alt="Java" width="32px" src="images/SVG/java.svg" />
-  <img align="left" alt="Python" width="32px" src="images/SVG/python.svg" />
-  <br/>
-  <img align="left" alt="HTML5" width="32px" src="images/SVG/html5.svg" />
-  <img align="left" alt="CSS3" width="32px" src="images/SVG/css3.svg" />
-  <img align="left" alt="JavaScript" width="32px" src="images/SVG/javascript.svg" />	
-  <img align="left" alt="AngularJS" width="32px" src="images/SVG/angularjs.svg" />
-  <br />
-  <img align="left" alt="Node.js" width="32px" src="images/SVG/node-dot-js.svg" />
-  <img align="left" alt="PHP" width="32px" src="images/SVG/php.svg" />
-  <img align="left" alt="MySQL" width="32px" src="images/SVG/mysql.svg" />
-  <img align="left" alt="MongoDB" width="32px" src="images/SVG/mongodb.svg" />
+  ### Tools:
   
-</div>
+  <p align="center">
+    <img align="center" alt="Visual Studio Code" width="32" src="images/SVG/visualstudiocode.svg" />
+    <img align="center" alt="XAMPP" width="32" src="images/SVG/heroku.svg" />
+    <img align="center" alt="Heroku" width="32" src="images/SVG/xampp.svg" />
+    <img align="center" alt="Git" width="32" src="images/SVG/git.svg" />
+    <img align="center" alt="GitHub" width="32" src="images/SVG/github.svg" />
+    <img align="center" alt="Font Awesome" width="32" src="images/SVG/fontawesome.svg" />	
+  </p>
+  <br />
 
-### Tools:
-
-<img align="left" alt="Visual Studio Code" width="32px" src="images/SVG/visualstudiocode.svg" />
-<img align="left" alt="XAMPP" width="32px" src="images/SVG/heroku.svg" />
-<img align="left" alt="Heroku" width="32px" src="images/SVG/xampp.svg" />
-<img align="left" alt="Git" width="32px" src="images/SVG/git.svg" />
-<br />
-<img align="left" alt="GitHub" width="32px" src="images/SVG/github.svg" />
-<img align="left" alt="Font Awesome" width="32px" src="images/SVG/fontawesome.svg" />	
-<br />
+  <p align="center"> 
+    <i><b>Profile Visitor Count</b></i><br>
+    <img align="center" src="https://profile-counter.glitch.me/prasad-medisetti/count.svg" />
+  </p>
 
 [website]: https://prasad-medisetti.herokuapp.com/
 [twitter]: https://twitter.com/Prasad_M_961
