@@ -1,10 +1,15 @@
 <div align="center">
 
-  # Hi there, welcome to my GitHub Profile! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
-  
-  ![github status](https://github-readme-stats.vercel.app/api?username=prasad-medisetti&theme=dark&show_icons=true)
-  ![langs used](https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-medisetti&show_icons=true&layout=compact&theme=dark)
-  
+  # Hello There, Welcome to my GitHub Profile! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">
+  <p align="center">
+    <a href="https://github.com/prasad-medisetti">
+      <img align="center" alt="GitHub Status"  height="300" width="500" src="https://github-readme-stats.vercel.app/api?username=prasad-medisetti&theme=dark&show_icons=true" />
+    </a>
+    <a href="https://github.com/prasad-medisetti">
+      <img align="center" alt="GitHub Status | Languages Used"  height="300" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-medisetti&show_icons=true&theme=dark" />
+    </a>
+  </p>
+ 
 </div>  
 
 
@@ -81,11 +86,21 @@
     <img align="center" alt="Font Awesome" width="32" src="images/SVG/fontawesome.svg" />	
   </p>
   <br />
+  
+  <p align="center">
+    <b>Profile Visitor Count</b>
+    <br />
+    <a href="http://hits.dwyl.com/prasad-medisetti/prasad-medisetti">
+      <img align="center" src="http://hits.dwyl.com/prasad-medisetti/prasad-medisetti.svg">
+    </a>
+  </p>
 
+  <!--
   <p align="center"> 
     <i><b>Profile Visitor Count</b></i><br>
     <img align="center" src="https://profile-counter.glitch.me/prasad-medisetti/count.svg" />
   </p>
+  -->
 
 [website]: https://prasad-medisetti.herokuapp.com/
 [twitter]: https://twitter.com/Prasad_M_961
