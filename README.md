@@ -90,7 +90,7 @@
   <p align="center">
     <b>Profile Visitor Count</b>
     <br />
-    <a href="http://hits.dwyl.com/prasad-medisetti/prasad-medisetti">
+    <a href="https://github.com/prasad-medisetti/">
       <img align="center" src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fprasad-medisetti">
     </a>
   </p>
