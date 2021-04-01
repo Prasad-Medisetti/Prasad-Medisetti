@@ -88,7 +88,7 @@
   <br />
   
   <p align="center">
-  ![](https://komarev.com/ghpvc/?username=prasad-medisetti&label=PROFILE+VIEWS)  
+  <a href="https://github.com/prasad-medisetti/"><img src="https://komarev.com/ghpvc/?username=prasad-medisetti&label=PROFILE+VIEWS"/></a>
   <!--     <b>Profile Visitor Count</b>
     <br />
     <a href="https://github.com/prasad-medisetti/">
