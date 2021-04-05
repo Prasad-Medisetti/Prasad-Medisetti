@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center">
 
   # Hello There, Welcome to my GitHub Profile! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">
