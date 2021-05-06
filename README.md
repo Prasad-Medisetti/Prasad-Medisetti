@@ -5,6 +5,8 @@
     <a href="prasad-medisetti.github.io" style="display:block">
       <img align="center" alt="GitHub Status"  src="https://github-readme-stats.vercel.app/api?username=prasad-medisetti&theme=dark&show_icons=true" />
     </a>
+    <br />
+    <br />
     <a href="https://github.com/prasad-medisetti" style="display:block">
       <img align="center" alt="GitHub Status | Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-medisetti&show_icons=true&theme=dark" />
     </a>
