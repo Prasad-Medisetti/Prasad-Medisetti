@@ -72,6 +72,7 @@
     <img align="center" alt="NodeJS" width="32" src="images/SVG/node-dot-js.svg" />
   </p>
 
+  <br />
   <h3 align="center">Tools:</h3>
   
   <p align="center">
