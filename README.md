@@ -1,11 +1,11 @@
 <div align="center">
 
   # Hello There, Welcome to my GitHub Profile! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">
-  <p align="center" style="disply:flex; justify-content: center; align-items: center; margin: 20px auto !important; ">
-    <a href="https://github.com/prasad-medisetti">
+  <p align="center" style="disply:flex; justify-content: center; align-items: center; flex-direction:column; margin: 20px auto !important; ">
+    <a href="prasad-medisetti.github.io" style="display:block">
       <img align="center" alt="GitHub Status"  src="https://github-readme-stats.vercel.app/api?username=prasad-medisetti&theme=dark&show_icons=true" />
     </a>
-    <a href="https://github.com/prasad-medisetti">
+    <a href="https://github.com/prasad-medisetti" style="display:block">
       <img align="center" alt="GitHub Status | Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-medisetti&show_icons=true&theme=dark" />
     </a>
   </p>
