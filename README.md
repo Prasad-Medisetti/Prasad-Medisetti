@@ -1,7 +1,7 @@
 <div align="center">
 
-  # Hello There, Welcome to my GitHub Profile! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">
-  <p align="center" style="disply:flex; justify-content: center; align-items: center; flex-direction:column; margin: 20px auto !important; ">
+  <h1>Hello There, Welcome to my GitHub Profile! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
+  <p align="center" style="disply:flex; justify-content: center; align-items: center; flex-direction:column; margin: 2rem !important; ">
     <a href="prasad-medisetti.github.io" style="display:block">
       <img align="center" alt="GitHub Status"  src="https://github-readme-stats.vercel.app/api?username=prasad-medisetti&theme=dark&show_icons=true" />
     </a>
@@ -9,11 +9,8 @@
       <img align="center" alt="GitHub Status | Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-medisetti&show_icons=true&theme=dark" />
     </a>
   </p>
- 
-</div>  
 
-
-  ## 📫 Reach me at : 
+  <h2  align="center">📫 Reach me at : </h2>
   
   <p align="center">
     <a href="https://prasad-medisetti.herokuapp.com/" target="blank">
@@ -57,7 +54,7 @@
 
   <br />
 
-  ### Languages:
+  <h2 align="center">Languages:</h2>
   <p align="center">
     <img align="center" alt="C" width="32" src="images/SVG/c.svg" />
     <img align="center" alt="C++" width="32" src="images/SVG/cplusplus.svg" />
@@ -75,7 +72,7 @@
     <img align="center" alt="NodeJS" width="32" src="images/SVG/node-dot-js.svg" />
   </p>
 
-  ### Tools:
+  <h3 align="center">Tools:</h3>
   
   <p align="center">
     <img align="center" alt="Visual Studio Code" width="32" src="images/SVG/visualstudiocode.svg" />
@@ -102,6 +99,8 @@
     <img align="center" src="https://profile-counter.glitch.me/prasad-medisetti/count.svg" />
   </p>
   -->
+ 
+</div>  
 
 [website]: https://prasad-medisetti.herokuapp.com/
 [twitter]: https://twitter.com/Prasad_M_961
